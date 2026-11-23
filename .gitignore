@@ -4,3 +4,7 @@ __pycache__/
 .venv/
 .DS_Store
 .ipynb_checkpoints/
+
+# Keras checkpoints (binary, recreated by train_keras.py and compare.py)
+checkpoints/
+*.keras
